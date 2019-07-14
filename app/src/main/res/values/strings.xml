@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hometask 3</string>
+    <string name="enter_text_hint">Введите текст</string>
+</resources>
